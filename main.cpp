@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main(){
-	return 1;
+	prinf("HelloWorld\n");
+	return 0;
 }
